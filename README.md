@@ -1,3 +1,6 @@
+# This is a React SPA, a display page is built using Material UI.
+It has a navbar, a main page, grid image cards and fancy buttons.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
